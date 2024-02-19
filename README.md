@@ -7,17 +7,25 @@
 </div>
 
 <div align="center">
-     
- <a href="https://eddev.com.ar/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bydiamondgod&show_icons=true&theme=transparent&hide_border=false&title_color=714df7&icon_color=714df7&text_color=ddd&border_color=30363d&locale=en&amp;repo=ByDiamondGod.github.io" alt="Readme Card"></a>
+
+ <!--
+  <a href="https://eddev.com.ar/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bydiamondgod&show_icons=true&theme=transparent&hide_border=false&title_color=714df7&icon_color=714df7&text_color=ddd&border_color=30363d&locale=en&amp;repo=ByDiamondGod.github.io" alt="Readme Card"></a>
   
  <a href="https://kinesiologiafv.com.ar/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bydiamondgod&show_icons=true&theme=transparent&hide_border=false&title_color=714df7&icon_color=714df7&text_color=ddd&border_color=30363d&locale=en&amp;repo=Kinesiology_Eddev-Jobs" alt="Readme Card"></a>
   
  <a href="https://galaxyshop-eddev.netlify.app/nosotros" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bydiamondgod&show_icons=true&theme=transparent&hide_border=false&title_color=714df7&icon_color=714df7&text_color=ddd&border_color=30363d&locale=en&amp;repo=Proyecto-Integrador-Etapa-3_Frontend-63704" alt="Readme Card"></a>
+-->
+
+ <a href="https://eddev.com.ar" target="_blank"><img src="https://streak-stats.demolab.com?user=ByDiamondGod&theme=transparent&date_format=j%20M%5B%20Y%5D&border=30363D&ring=714DF7&stroke=30363D&currStreakNum=DDDDDD&fire=FFFFFF&sideNums=FFFFFF&dates=DDDDDD&currStreakLabel=714DF7&sideLabels=714DF7&excludeDaysLabel=DDDDDD&hide_longest_streak=true" alt="GitHub Streak" /></a>
+
+  <p align="center">
+     <a href="https://eddev.com.ar/"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=bydiamondgod&show_icons=true&theme=transparent&hide_border=false&title_color=714df7&icon_color=714df7&text_color=ddd&border_color=30363d&locale=en&amp;repo=ByDiamondGod.github.io" alt="Readme Card"></a>
+    <a href="https://kinesiologiafv.com.ar/"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=bydiamondgod&show_icons=true&theme=transparent&hide_border=false&title_color=714df7&icon_color=714df7&text_color=ddd&border_color=30363d&locale=en&amp;repo=Kinesiology_Eddev-Jobs" alt="Readme Card"></a>
+   <a href="https://galaxyshop-eddev.netlify.app/nosotros"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=bydiamondgod&show_icons=true&theme=transparent&hide_border=false&title_color=714df7&icon_color=714df7&text_color=ddd&border_color=30363d&locale=en&amp;repo=Proyecto-Integrador-Etapa-3_Frontend-63704" alt="Readme Card"></a>
+  </p>
 
  <!-- Future's projects -->
  <!-- <a href="https://github.com/ByDiamondGod/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bydiamondgod&show_icons=true&theme=transparent&hide_border=false&title_color=714df7&icon_color=714df7&text_color=ddd&border_color=30363d&locale=en&amp;repo=" alt="Readme Card"></a> -->
-
- <a href="https://eddev.com.ar" target="_blank"><img src="https://streak-stats.demolab.com?user=ByDiamondGod&theme=transparent&date_format=j%20M%5B%20Y%5D&border=30363D&ring=714DF7&stroke=30363D&currStreakNum=DDDDDD&fire=FFFFFF&sideNums=FFFFFF&dates=DDDDDD&currStreakLabel=714DF7&sideLabels=714DF7&excludeDaysLabel=DDDDDD&hide_longest_streak=true" alt="GitHub Streak" /></a>
 
 </div>
 
