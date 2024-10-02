@@ -83,7 +83,7 @@
 </table>
 
 <p align="center">
-  <a href="mailto:eddev.jobs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=714DF7" alt="Gmail"></a>
+  <a href="mailto:eddevcorp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=714DF7" alt="Gmail"></a>
   <a href="https://linkedin.com/in/eduardo-danderfer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=714DF7&style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://instagram.com/eduardodanderfer" target="_blank"><img src="https://img.shields.io/badge/Instagram-000?logo=instagram&logoColor=714DF7&style=for-the-badge" alt="Instagram"></a>
   <a href="https://www.youtube.com/@ByDiamondGod" target="_blank"><img src="https://img.shields.io/badge/YouTube-000?logo=youtube&logoColor=714DF7&style=for-the-badge" alt="YouTube"></a>
